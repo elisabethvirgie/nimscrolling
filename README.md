@@ -1,4 +1,4 @@
-# Midterm Exam Project: Student ID (NIM) Scrolling on TM1638
+# [DIGITAL IC DESIGN] Midterm Exam Project: Student ID (NIM) Scrolling on TM1638
 
 A Verilog-based FPGA project for displaying and scrolling a Student ID (NIM) on a TM1638 LED & 7-segment display module.
 This project was developed as a Digital IC Design assignment and implemented on an **iCESugar V1.5 FPGA board** with an **iCE40UP5K FPGA**.

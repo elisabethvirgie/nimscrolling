@@ -391,9 +391,21 @@ FPGA programming
 Hardware verification
 ```
 
+
+
 The generated FPGA design successfully produces a programmable bitstream for the iCE40-based board.
 
 ---
+
+## Demo
+
+### Hardware Demo
+
+https://github.com/user-attachments/assets/03e165b6-fddd-4e47-b684-e25a6b499e65
+
+
+
+
 
 ## References
 
